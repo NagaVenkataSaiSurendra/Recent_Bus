@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\BusTicketingWebApplication",
+    "\\BusTicketingWebApplication\\Controllers",
+    "\\BusTicketingWebApplication\\Interfaces",
+    "\\BusTicketingWebApplication\\Models",
+    "\\BusTicketingWebApplication\\Models\\DTOs",
+    "\\BusTicketingWebApplication\\Repositories",
+    "\\BusTicketingWebApplication\\Services",
+    "\\EBusTicketingTest"
+  ],
+  "SelectedNode": "\\BusTicketingWebApplication\\Services\\UserService.cs",
+  "PreviewInSolutionExplorer": false
+}
